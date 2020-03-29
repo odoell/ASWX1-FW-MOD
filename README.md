@@ -1,3 +1,5 @@
+# Based on pinguinpfleger/ASWX1-FW-MOD
+
 # ASWX1-FW-MOD  
 **Artillery Sidewinder X1 Firmware Mod**  
 
